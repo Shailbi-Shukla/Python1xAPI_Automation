@@ -34,7 +34,7 @@ Hybrid Custom Framework to Test the REST APIs
 ``pytest -n auto tests/integration_test/test_create_booking.py -s -v
 ``
 
-### To Work with the Excel
+### To Work with the Excel file
 ``pip install openpyxl``
 
 
